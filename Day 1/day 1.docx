@@ -9,4 +9,22 @@ So let's start.
 
 The first thing that we are going to learn in NumPy is data types and Attributes
 
-Numpy has one datatype and that is ndarray. What ever you are going to see and work with is going to be ndarray 
+Numpy has one datatype and that is ndarray. Whatever you are going to see and work with is going to be ndarray 
+
+To create an array we can call the np.array() function and inside the function, we can pass different values to create different types of arrays.
+
+Check out the notebook for more details
+
+Next, we would see the shape and dimensions of the arrays.
+We can use the .shape function to know about the shape of the arrays and the .ndim function to know about the dimensions of the array 
+Check out the notebook for more details
+
+We can also check the .type and .size of the arrays.
+
+Now let's do something interesting. Let's create a Pandas dataframe from the NumPy array
+and to do that we would need to first import pandas as we did before and then use the pd.Dataframe() command and pass in the array 
+and you would see it created a beautiful dataframe from the NumPy array.
+
+This shows that if you have a data frame, you can use a Numpy action on it because Pandas is built on NumPy.
+
+Okay so that's it for the first lecture we will see more in the next day
