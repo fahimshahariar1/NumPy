@@ -1,3 +1,12 @@
 We have completed learning about Pandas or the basics of Pandas that we can use directly in our work.
 
 Now we will learn about NumPy which is another important tool for learning Data Science and Machine Learning
+
+NumPy is a library for Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection Of high-level mathematical functions to operate on these
+arrays.
+
+So let's start.
+
+The first thing that we are going to learn in NumPy is data types and Attributes
+
+Numpy has one datatype and that is ndarray. What ever you are going to see and work with is going to be ndarray 
