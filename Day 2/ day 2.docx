@@ -4,3 +4,5 @@ yes, you are right but in the last section we created arrays by passing the valu
 
 What if we don't want to do that. what if we want to create arrays that would have default values inserted to itself.
 That's what we are going to learn today 
+
+If we want to learn about a particular function we can press shift+tab inside the brackets of the function then it would give us information about that function
