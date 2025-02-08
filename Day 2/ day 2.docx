@@ -6,3 +6,5 @@ What if we don't want to do that. what if we want to create arrays that would ha
 That's what we are going to learn today 
 
 If we want to learn about a particular function we can press shift+tab inside the brackets of the function then it would give us information about that function
+
+The function that we are going to try today is np.ones() this would make an array of the given shape filled with 1s. We can do similar with 0s
