@@ -1,1 +1,6 @@
-day 2
+On day 2 of learning NumPy we will learn about how we can create arrays.
+you might say that we have already done it in the previou section.
+yes, you are right but in the last section we created arrays by passing the values of the arrays inside the fucntion.
+
+What if we don't want to do that. what if we want to create arrays that would have default values inserted to itself.
+That's what we are going to learn today 
