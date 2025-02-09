@@ -20,5 +20,10 @@ np.random.random(()) just put the shape inside it and it will generate such
 
 we can also use np.random.rand() this two works kind of same
 
+Now what if we are using random numbers to create an array but we want to share it with someone the same numbers but you'd see everytime we run the code it will generate different sort of numbers for the array.
+How can we resolve this?
+
+
+
 That's all for today
-check out the notebook and try for yourself
+check out the notebook and try it for yourself
