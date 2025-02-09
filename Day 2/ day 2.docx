@@ -22,7 +22,8 @@ we can also use np.random.rand() this two works kind of same
 
 Now what if we are using random numbers to create an array but we want to share it with someone the same numbers but you'd see everytime we run the code it will generate different sort of numbers for the array.
 How can we resolve this?
-
+To resolve this issue we can use seed() function such as np.random.seed(7) this.
+This particular function tells numpy to keep the seed always 7. The number doesn't matter, you can put any number in there as you want but that will keep the values in the array stable
 
 
 That's all for today
