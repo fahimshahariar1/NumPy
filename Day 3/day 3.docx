@@ -1,1 +1,5 @@
-We have seen how can we create arrays in different ways but now we will see how can we view the arrays and matrices
+We have seen how we can create arrays in different ways but now we will see how we can view the arrays and matrices
+
+Before that let's see something easier. 
+What if we want to find unique numbers from an array? To do that we can use the unique() function
+np.unique(sample_array) This will return all the unique numbers in that array
