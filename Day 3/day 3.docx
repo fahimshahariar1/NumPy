@@ -4,11 +4,19 @@ Before that let's see something easier.
 What if we want to find unique numbers from an array? To do that we can use the unique() function
 np.unique(sample_array) This will return all the unique numbers in that array
 
-All the arrays that we have created before if we want to see the value at the first index we can use a1[0]. this will return the values but depending on the array itself.
+For all the arrays that we have created before if we want to see the value at the first index, we can use a1[0]. this will return the values but depending on the array itself.
 if you run the code you will see this is returning all the values at index 0 based on their dimensions
-for a1 array as its 1 dimension and a vector so it returns just the first number
+for a1 array as it is 1 dimension and a vector so it returns just the first number
 but for a2 and a3 as they are multi-dimensional matrices they return the array value at the index
 
 we can also slice the matrices like Python list a1[:2]
 as a3 array is multi-dimensional we need to slice it in a different way
 as a2 is 2 3 3 dimensional that's why you need to put values for each parameter to slice it
+
+lets create more complex array
+a4 = np.random.randint(10, size=(2,3,4,5))
+this will create a 4 dimensional array
+
+you will see it as a 4-dimensional array. Now if we want to slice it we will have to include parameters according to its size
+a4[:, :, :, :2]
+that's how we can view our matrices in different ways
