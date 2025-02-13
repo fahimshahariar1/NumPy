@@ -2,4 +2,11 @@ On Day 4 we are going to learn how we can manipulate arrays in Numpy
 
 the first thing that we are going to see today is how we can use Arithmetic Operations on arrays
 
-We can simply use the + between two arrays and it will add two arrays and its corresponding positions value and give you the result
+We can simply use the + between two arrays and it will add two arrays and their corresponding position values and give you the result
+
+Similarly, we can use every other function, such as subtraction, multiplications, etc.
+
+these are simple operations. what if we want to do the same with more complex arrays like in the previous lectures we tried to work with a3 array.
+
+so if you try to multiply a2 * a3 you'd see it will throw an error because the shapes of the arrays doesn't match.
+So, how can we resolve this?
