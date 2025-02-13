@@ -10,3 +10,9 @@ these are simple operations. what if we want to do the same with more complex ar
 
 so if you try to multiply a2 * a3 you'd see it will throw an error because the shapes of the arrays doesn't match.
 So, how can we resolve this?
+We will look into this in a future lecture.
+
+Let's do other simple operations
+check out the notebook for more info
+
+and try it for yourself
