@@ -1,1 +1,5 @@
 On Day 4 we are going to learn how we can manipulate arrays in Numpy
+
+the first thing that we are going to see today is how we can use Arithmetic Operations on arrays
+
+We can simply use the + between two arrays and it will add two arrays and its corresponding positions value and give you the result
