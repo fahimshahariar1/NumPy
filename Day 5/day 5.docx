@@ -3,3 +3,8 @@ on day 5 we continued looking into Manipulating and comparing Numpy arrays furth
 The first thing that we are going to look into today is Aggregation.
 
 Aggregation means performing the same operation on a number of things
+. You might have seen different functions to perform the same operations in Numpy. The question is why are there multiple methods for doing the same operations?
+and what you should use at what time?
+The answer is easy. If you are using Python datatypes such as list or tupples then use Python's methods
+and if you are using NumPy arrays then use Numpy's methods
+Check out the notebook for details
