@@ -25,5 +25,6 @@ look at how big the difference is
 
 Okay next we will look into more aggregations such as np.mean(), np.max(), np.min(), np.std() - to get the standard deviation and np.var() - to get the variance
 
-Now the question might be what is standard deviation and variance
-So standard devation is 
+Now the question might be what are standard deviation and variance
+So standard deviation is a measure of how dispersed the data is in relation to the mean
+and variance is a measure of dispersion, meaning it is a measure of how far a set of numbers is spread out from their average value
