@@ -8,3 +8,13 @@ and what you should use at what time?
 The answer is easy. If you are using Python datatypes such as list or tupples then use Python's methods
 and if you are using NumPy arrays then use Numpy's methods
 Check out the notebook for details
+
+We have created a massive array to check which method will work the best
+for this, you will see in the notebook we are usinga  module named Timeit
+So, timeit Measure execution time of small code snippets.
+
+and you'd see the results as below
+85.9 ms ± 577 μs per loop (mean ± std. dev. of 7 runs, 10 loops each)
+1.41 ms ± 160 μs per loop (mean ± std. dev. of 7 runs, 1,000 loops each)
+
+So th
