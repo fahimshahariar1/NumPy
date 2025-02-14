@@ -1,1 +1,5 @@
 on day 5 we continued looking into Manipulating and comparing Numpy arrays further
+
+The first thing that we are going to look into today is Aggregation.
+
+Aggregation means performing the same operation on a number of things
