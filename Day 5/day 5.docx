@@ -17,5 +17,13 @@ and you'll see the results as below
 85.9 ms ± 577 μs per loop (mean ± std. dev. of 7 runs, 10 loops each)
 1.41 ms ± 160 μs per loop (mean ± std. dev. of 7 runs, 1,000 loops each)
 
+If you want to learn more about the timeit module 
+https://docs.python.org/3/library/timeit.html
+
 So the first line belongs to the pythons method and it took 85.9 milliseconds and on the other hand,d the numpy method took only 1.41 milliseconds.
 look at how big the difference is
+
+Okay next we will look into more aggregations such as np.mean(), np.max(), np.min(), np.std() - to get the standard deviation and np.var() - to get the variance
+
+Now the question might be what is standard deviation and variance
+So standard devation is 
