@@ -10,11 +10,12 @@ and if you are using NumPy arrays then use Numpy's methods
 Check out the notebook for details
 
 We have created a massive array to check which method will work the best
-for this, you will see in the notebook we are usinga  module named Timeit
+for this, you will see in the notebook we are using a  module named Timeit
 So, timeit Measure execution time of small code snippets.
 
-and you'd see the results as below
+and you'll see the results as below
 85.9 ms ± 577 μs per loop (mean ± std. dev. of 7 runs, 10 loops each)
 1.41 ms ± 160 μs per loop (mean ± std. dev. of 7 runs, 1,000 loops each)
 
-So th
+So the first line belongs to the pythons method and it took 85.9 milliseconds and on the other hand,d the numpy method took only 1.41 milliseconds.
+look at how big the difference is
