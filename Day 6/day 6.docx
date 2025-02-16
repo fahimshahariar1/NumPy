@@ -3,3 +3,5 @@ On day 6 we are going to look further into the concepts of standard deviation an
 So variance is a measure of how spread out a set of data is from its mean.
 
 We can also check the mean using the np.mean function
+
+on the other hand  standard deviation is the square root of the variance, representing the average deviation of data points from the mean
