@@ -1,1 +1,5 @@
-On day 6 we are going to look further into the concepts of standar deviation and Variance
+On day 6 we are going to look further into the concepts of standard deviation and Variance
+
+So variance is a measure of how spread out a set of data is from its mean.
+
+We can also check the mean using the np.mean function
