@@ -2,3 +2,10 @@ On day 7 we are going to learn about Reshaping and Transposing the array
 
 remember how we wanted to change the shape of an array previously?
 Well that is what we are going to be looking at today
+
+as we can see from our example that a2 array and a3 array are of different shapes that's why they are not compatible with each other for any operation
+
+Now if we want to do any operation on them we will need to change the shape of one of them 
+
+To change the shape of an array we can use the .rehsape() function.
+When we try the a2.reshape(), it will ask us to provide a shape that we want to change the shape into
