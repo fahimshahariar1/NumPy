@@ -9,3 +9,5 @@ Now if we want to do any operation on them we will need to change the shape of o
 
 To change the shape of an array we can use the .rehsape() function.
 When we try the a2.reshape(), it will ask us to provide a shape that we want to change the shape into
+
+as we know the shape of a3 array is (2,3,3) so if we pass (2,3,1) as a shape inside the reshape function it will convert the a2 arrays shape
