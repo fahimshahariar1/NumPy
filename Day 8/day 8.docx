@@ -5,3 +5,19 @@ That is what we are going to look at today
 So we already know how to do basic mathematic operations on a matrix.
 Then what is Dot product?
 Dot Product is a basic linear algebra computation used in deep learning models to complete operations with larger amounts of data more efficiently.
+
+Now if we try to do the dot operation on the arrays np.dot(mat1, mat2)
+You'd see we are getting an error showing "shapes (5,3) and (5,3) not aligned: 3 (dim 1) != 5 (dim 0)"
+
+Although both the arrays are of the same shape still can't use dot on them
+
+To use the Dot operation we need to transpose one of the shapes so that the inner value matches the two matrices
+For example, in the notebook,k we used a matrix of shapes (5, 3) (5, 3)
+Now to use the Dot operator one of the shapes has to change and make it either (3, 5) (5, 3) or (5, 3) (3, 5) so that the inner 2 values match and based on that the output would be in the shape of at the right most value
+
+Let's check the notebook
+
+So that's how we are going to use the Dot operator.
+For better visualisation 
+http://matrixmultiplication.xyz/
+Try this website 
