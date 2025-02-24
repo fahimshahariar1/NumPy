@@ -1,3 +1,7 @@
 Today we will see that we know about reshaping and transposing but where will we use it?
-So one of the place where we can use this is the Dot Product
+So one of the places where we can use this is the Dot Product
 That is what we are going to look at today
+
+So we already know how to do basic mathematic operations on a matrix.
+Then what is Dot product?
+Dot Product is a basic linear algebra computation used in deep learning models to complete operations with larger amounts of data more efficiently.
