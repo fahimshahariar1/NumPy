@@ -11,8 +11,15 @@ weekly_sales = pd.DataFrame(sales_amount,
 Yes you might say this is tedious and you can import the CSV and work on it but creating a data frame from scratch will give you a more in-depth knowledge
 
 Now we will create a sales list. We can do that by simply a numpy array
-after creating it if you try to convert it to a Datframe you will see its giving us an error regarding the shape.
+after creating it if you try to convert it to a Datframe you will see it giving us an error regarding the shape.
 Here we will use the .reshape() function to change the shape of the array 
 butter_prices = pd.DataFrame(prices.reshape(1,3),  index=["Price"],
                              columns=["Almond Butter", "Peanut Butter", "Cashew Butter"])
 So we add the reshape and the error is gone
+
+Now we are going to find the total price and add it to a column
+To add a column we need to create another column and add it to the dataframe.
+Here you will get into many errors regarding the shape of the array because they are of different shape
+But you need to use the transpose to change the shape of them so that we can use the dot product on them to get the values
+
+Check the notebook for more details and try for yourself
