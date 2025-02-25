@@ -1,1 +1,5 @@
 So Today we will look into a real life example of where we might be using the Dot Product
+For that we will work on a Nut Job example. Which will show how much of jars we have sold for a particular day and what was our profit
+
+To do that we will first create an array which would be jars sold
+and a data frame for weekly sales
