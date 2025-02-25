@@ -1,5 +1,11 @@
 So Today we will look into a real life example of where we might be using the Dot Product
-For that we will work on a Nut Job example. Which will show how much of jars we have sold for a particular day and what was our profit
+For that, we will work on a Nut Job example. This will show how much of jars we have sold for a particular day and what our profit
 
 To do that we will first create an array which would be jars sold
 and a data frame for weekly sales
+sales_amount = np.random.randint(20, size=(5,3))
+weekly_sales = pd.DataFrame(sales_amount, 
+                            index=["Mon", "Tues", "Wed", "Thurs", "Fri"],
+                           columns = ["Almond Butter", "Peanut Butter", "Cashew Butter"])
+
+Yes you might say this is tedious and definitely you can just import the CSV and work on it but creating a dataframe from scratch will give you a more in-depth knowledge
