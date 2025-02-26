@@ -3,3 +3,5 @@ Today we will look into the basic comparison operators
   We can use them to compare between arrays and this will return us boolean values
 
 That is basically comparison operators of arrays
+
+The next thing that we are going to look into today is sorting arrays
