@@ -1,3 +1,5 @@
-Today we will look into the basic comparision operators
-  these are nothing but the basic opeartions that we do (eg, ==, !=, <, >, <=, >=)
-  We can use them to compare between arrays and this will return us in boolean values
+Today we will look into the basic comparison operators
+  these are nothing but the basic operations that we do (eg, ==, !=, <, >, <=, >=)
+  We can use them to compare between arrays and this will return us boolean values
+
+That is basically comparison operators of arrays
