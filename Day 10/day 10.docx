@@ -2,6 +2,18 @@ Today we will look into the basic comparison operators
   these are nothing but the basic operations that we do (eg, ==, !=, <, >, <=, >=)
   We can use them to compare between arrays and this will return us boolean values
 
-That is basically comparison operators of arrays
+That is comparison operators of arrays
 
 The next thing that we are going to look into today is sorting arrays
+
+Sorting arrays returns us a sorted version of a particular array
+for example 
+array([[2, 9, 0, 7, 8],
+       [0, 3, 0, 1, 3],
+       [9, 7, 4, 7, 9]])
+
+this is the original array. but if we use the np.sort function this will return as 
+
+array([[0, 2, 7, 8, 9],
+       [0, 0, 1, 3, 3],
+       [4, 7, 7, 9, 9]]) as sorted
