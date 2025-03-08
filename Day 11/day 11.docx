@@ -4,3 +4,7 @@ So this is what we are going to look into today
 
 to import an image into your notebook you need to use this command <img src = "Resources/panda.jpg"/>
 and remember this has to be a markdown cell, not a code. after running you will see the picture
+
+Then we will need to use matplotlib to change the image. we will use the imread function which will Read an image from a file into an array.
+
+Then we just need to pass the file path and you will see this have converted the image to an array
