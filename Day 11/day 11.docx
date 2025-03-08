@@ -1,3 +1,6 @@
 what if you want to turn an image into an array?
 
 So this is what we are going to look into today
+
+to import an image into your notebook you need to use this command <img src = "Resources/panda.jpg"/>
+and remember this has to be a markdown cell, not a code. after running you will see the picture
